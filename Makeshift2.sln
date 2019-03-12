@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Makeshift2", "Intermediate\ProjectFiles\Makeshift2.vcxproj", "{42C96C54-F68E-41BF-9B43-DFCB0C8E1306}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		DebugGame Editor|Windows = DebugGame Editor|Windows
+		DebugGame|Windows = DebugGame|Windows
+		Development Editor|Windows = Development Editor|Windows
+		Development|Windows = Development|Windows
+		Shipping|Windows = Shipping|Windows
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42C96C54-F68E-41BF-9B43-DFCB0C8E1306}.DebugGame Editor|Windows.ActiveCfg = DebugGame_Editor|x64
+		{42C96C54-F68E-41BF-9B43-DFCB0C8E1306}.DebugGame Editor|Windows.Build.0 = DebugGame_Editor|x64
+		{42C96C54-F68E-41BF-9B43-DFCB0C8E1306}.DebugGame|Windows.ActiveCfg = DebugGame_Game|x64
+		{42C96C54-F68E-41BF-9B43-DFCB0C8E1306}.DebugGame|Windows.Build.0 = DebugGame_Game|x64
+		{42C96C54-F68E-41BF-9B43-DFCB0C8E1306}.Development Editor|Windows.ActiveCfg = Development_Editor|x64
+		{42C96C54-F68E-41BF-9B43-DFCB0C8E1306}.Development Editor|Windows.Build.0 = Development_Editor|x64
+		{42C96C54-F68E-41BF-9B43-DFCB0C8E1306}.Development|Windows.ActiveCfg = Development_Game|x64
+		{42C96C54-F68E-41BF-9B43-DFCB0C8E1306}.Development|Windows.Build.0 = Development_Game|x64
+		{42C96C54-F68E-41BF-9B43-DFCB0C8E1306}.Shipping|Windows.ActiveCfg = Shipping_Game|Win32
+		{42C96C54-F68E-41BF-9B43-DFCB0C8E1306}.Shipping|Windows.Build.0 = Shipping_Game|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal

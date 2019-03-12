@@ -1,0 +1,16 @@
+// Copyright 1998-2014 Epic Games, Inc. All Rights Reserved.
+
+#include "ShooterGame.h"
+#include "../UI/Style/ShooterStyle.h"
+
+
+AShooterPlayerController_Menu::AShooterPlayerController_Menu(const FObjectInitializer& ObjectInitializer) : Super(ObjectInitializer)
+{
+}
+
+void AShooterPlayerController_Menu::PostInitializeComponents() 
+{
+	Super::PostInitializeComponents();
+
+	FShooterStyle::Initialize();
+}

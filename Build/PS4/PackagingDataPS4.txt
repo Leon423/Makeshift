@@ -1,0 +1,4 @@
+TitleID=IV0000-NPXX51358_00-SHOOTERGAMEXXXXX
+PS4TitlePasscode=xiB6LnPxcxIDl2CrCJC7eBnZ1wQXvjNm
+PS4TitleStorageType=bd25
+PS4TitleAppType=full

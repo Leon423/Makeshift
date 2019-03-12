@@ -1,0 +1,5 @@
+D:\BuildFarm\buildmachine_++depot+UE4-Releases+4.6\Engine\Binaries\DotNET\AutomationScripts\NoRedist\ShooterGame.Automation.dll
+D:\BuildFarm\buildmachine_++depot+UE4-Releases+4.6\Engine\Binaries\DotNET\AutomationScripts\NoRedist\ShooterGame.Automation.pdb
+D:\BuildFarm\buildmachine_++depot+UE4-Releases+4.6\Samples\Games\ShooterGame\Build\Scripts\obj\Development\ShooterGame.Automation.csprojResolveAssemblyReference.cache
+D:\BuildFarm\buildmachine_++depot+UE4-Releases+4.6\Samples\Games\ShooterGame\Build\Scripts\obj\Development\ShooterGame.Automation.dll
+D:\BuildFarm\buildmachine_++depot+UE4-Releases+4.6\Samples\Games\ShooterGame\Build\Scripts\obj\Development\ShooterGame.Automation.pdb
